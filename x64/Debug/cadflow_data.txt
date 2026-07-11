@@ -1,0 +1,12 @@
+10000|Francisco Pereira|75
+5
+Deposit|100|1781266875
+Deposit|50|1781266881
+Withdrawal|75|1781266887
+Deposito|50|1781283742
+Levantamento|50|1781283747
+10001|Liliana|10000
+3
+Deposito|1000|1783799037
+Levantamento (c/ taxa 1%)|999.991|1783799046
+Deposito|10000|1783799053

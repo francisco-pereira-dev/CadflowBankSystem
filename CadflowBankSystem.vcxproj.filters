@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Arquivos de Origem">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Arquivos de Cabeçalho">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Arquivos de Recurso">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CadflowBankSystem.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="CadflowBankSystemDlg.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="framework.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="CreateAccountDlg.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="TransactionDlg.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="AccountDetailsDlg.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="TransferDlg.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="Account.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="BankManager.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="Transaction.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="CadflowBankSystem.cpp">
+      <Filter>Arquivos de Origem</Filter>
+    </ClCompile>
+    <ClCompile Include="CadflowBankSystemDlg.cpp">
+      <Filter>Arquivos de Origem</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>Arquivos de Origem</Filter>
+    </ClCompile>
+    <ClCompile Include="CreateAccountDlg.cpp">
+      <Filter>Arquivos de Origem</Filter>
+    </ClCompile>
+    <ClCompile Include="TransactionDlg.cpp">
+      <Filter>Arquivos de Origem</Filter>
+    </ClCompile>
+    <ClCompile Include="AccountDetailsDlg.cpp">
+      <Filter>Arquivos de Origem</Filter>
+    </ClCompile>
+    <ClCompile Include="TransferDlg.cpp">
+      <Filter>Arquivos de Origem</Filter>
+    </ClCompile>
+    <ClCompile Include="Account.cpp">
+      <Filter>Arquivos de Origem</Filter>
+    </ClCompile>
+    <ClCompile Include="BankManager.cpp">
+      <Filter>Arquivos de Origem</Filter>
+    </ClCompile>
+    <ClCompile Include="Transaction.cpp">
+      <Filter>Arquivos de Origem</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="CadflowBankSystem.rc">
+      <Filter>Arquivos de Recurso</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\CadflowBankSystem.rc2">
+      <Filter>Arquivos de Recurso</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\CadflowBankSystem.ico">
+      <Filter>Arquivos de Recurso</Filter>
+    </Image>
+    <Image Include="imagens\linha_azul.bmp">
+      <Filter>Arquivos de Recurso</Filter>
+    </Image>
+    <Image Include="imagens\icon.bmp">
+      <Filter>Arquivos de Recurso</Filter>
+    </Image>
+    <Image Include="imagens\user.bmp">
+      <Filter>Arquivos de Recurso</Filter>
+    </Image>
+    <Image Include="imagens\add.bmp">
+      <Filter>Arquivos de Recurso</Filter>
+    </Image>
+    <Image Include="imagens\agile.bmp">
+      <Filter>Arquivos de Recurso</Filter>
+    </Image>
+    <Image Include="imagens\info.bmp">
+      <Filter>Arquivos de Recurso</Filter>
+    </Image>
+    <Image Include="imagens\linha_azul_janelas_pequenas.bmp">
+      <Filter>Arquivos de Recurso</Filter>
+    </Image>
+    <Image Include="imagens\add_26px.bmp">
+      <Filter>Arquivos de Recurso</Filter>
+    </Image>
+    <Image Include="imagens\cancelar_26px.bmp">
+      <Filter>Arquivos de Recurso</Filter>
+    </Image>
+    <Image Include="imagens\agile_26px.bmp">
+      <Filter>Arquivos de Recurso</Filter>
+    </Image>
+    <Image Include="imagens\user-42.bmp">
+      <Filter>Arquivos de Recurso</Filter>
+    </Image>
+    <Image Include="imagens\down.bmp">
+      <Filter>Arquivos de Recurso</Filter>
+    </Image>
+    <Image Include="imagens\arrow.bmp">
+      <Filter>Arquivos de Recurso</Filter>
+    </Image>
+    <Image Include="imagens\back-button.bmp">
+      <Filter>Arquivos de Recurso</Filter>
+    </Image>
+    <Image Include="imagens\linha_azul_grande.bmp">
+      <Filter>Arquivos de Recurso</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
